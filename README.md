@@ -8,7 +8,7 @@ Kelompok 4:
 - Gilbert Evan Tilung 00000069610
 
 Link Github : 
-
+https://github.com/raphstantine/IdleClicker
 
 Aturan Permainan : 
 - Click play pada Home untuk memulai permainan.
